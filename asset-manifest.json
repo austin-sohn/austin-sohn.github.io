@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/austin-sohn.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/austin-sohn.github.io/static/js/main.0b801b0d.js",
+    "static/media/endless-constellation.svg": "/austin-sohn.github.io/static/media/endless-constellation.f701ac7876618c57d1b690f6251ea0c5.svg",
+    "index.html": "/austin-sohn.github.io/index.html",
+    "main.e6c13ad2.css.map": "/austin-sohn.github.io/static/css/main.e6c13ad2.css.map",
+    "main.0b801b0d.js.map": "/austin-sohn.github.io/static/js/main.0b801b0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0b801b0d.js"
+  ]
+}
